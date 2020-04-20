@@ -16,7 +16,7 @@ app.get("/repositories", (request, response) => {
     ? repositories.filter(repositorie => repositorie.title.includes(title))
     : repositories;
 
-  return response.json(repositories);
+  return response.json(results);
 });
 
 app.post("/repositories", (request, response) => {
