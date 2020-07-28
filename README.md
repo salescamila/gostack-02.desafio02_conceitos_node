@@ -7,4 +7,4 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 
 <b>[Instruções do Desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
 
-[GoStack Bootcamp - Índice de Repositórios](https://github.com/salescamila/gostack)</b>
+[Índice de Repositórios](https://github.com/salescamila/gostack)</b>
